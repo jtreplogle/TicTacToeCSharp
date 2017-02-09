@@ -1,0 +1,9 @@
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpTicTacToe\CSharpTicTacToe\bin\Debug\CSharpTicTacToe.exe.config
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpTicTacToe\CSharpTicTacToe\bin\Debug\CSharpTicTacToe.exe
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpTicTacToe\CSharpTicTacToe\bin\Debug\CSharpTicTacToe.pdb
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpTicTacToe\CSharpTicTacToe\obj\Debug\CSharpTicTacToe.csprojResolveAssemblyReference.cache
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpTicTacToe\CSharpTicTacToe\obj\Debug\CSharpTicTacToe.Form1.resources
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpTicTacToe\CSharpTicTacToe\obj\Debug\CSharpTicTacToe.Properties.Resources.resources
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpTicTacToe\CSharpTicTacToe\obj\Debug\CSharpTicTacToe.csproj.GenerateResource.Cache
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpTicTacToe\CSharpTicTacToe\obj\Debug\CSharpTicTacToe.exe
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpTicTacToe\CSharpTicTacToe\obj\Debug\CSharpTicTacToe.pdb
